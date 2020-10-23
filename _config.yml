@@ -2,4 +2,5 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: false
 title: Movi Healthcare
+logo: logo.png
 show_downloads: false
