@@ -1,6 +1,5 @@
 ---
 title: Jobs @ Movi
-permalink: /jobs/
 ---
 # awesome-jobs
 
