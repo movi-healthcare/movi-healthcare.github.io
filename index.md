@@ -5,7 +5,7 @@ title: Engineering @ Movi
 
 Updated: 10/20/2020
 
-Exciting things are happening here at Movi.  Our platform has been validated as an ecosystem with value add to ALL participants in the business process.  This translates into expanding our current offerings while also creating new ones. :boom:
+Exciting things are happening here at Movi.  Our platform has been validated as an ecosystem with value add to ALL participants in the business process.  This translates into expanding our current offerings while also creating new ones. :rocket:
 
 We're looking to hire all levels of software engineers so don't hesitate to submit your resume if a job description below does not match your experience to a :tea:
 
