@@ -10,7 +10,7 @@ Exciting things are happening here at Movi.  Our platform has been validated as 
 We're looking to hire all levels of software engineers so don't hesitate to submit your resume if a job description below does not match your experience to a :tea:
 
 
-- [Engineering Team Player](http://b.link/movi-github-team-player): Mid-level aka intermediate is passé...and we really don't want to put someone in a box. We want someone who plans on advancing quickly and help the greater good of the team as you grow.
+- [Team Player Engineer](http://b.link/movi-github-team-player): Mid-level aka intermediate is passé...and we really don't want to put someone in a box. We want someone who plans on advancing quickly and help the greater good of the team as you grow.
 
 - [Quality Team Player](http://b.link/movi-github-quality-team-player): QA Engineer is too QA-y and isn't exactly what we're seeking....we're looking for someone who likes the Quality Assurance aspects of software development, particularly automated testing but can also participate in other areas of the development cycle.  We're small and it's all hands on deck!
 
