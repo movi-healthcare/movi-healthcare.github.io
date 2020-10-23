@@ -1,7 +1,7 @@
 ---
 title: Jobs @ Movi
 ---
-# awesome-jobs
+# Awesome Jobs
 
 Updated: 10/20/2020
 
