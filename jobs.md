@@ -1,3 +1,7 @@
+layout: page
+title: "Jobs @ Movi"
+permalink: /jobs
+
 # awesome-jobs
 
 Updated: 10/20/2020
