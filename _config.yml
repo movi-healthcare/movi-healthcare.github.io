@@ -6,3 +6,5 @@ title: Movi Healthcare
 description: The Leader in NEMT Technology Solutions
 logo: logo.png
 show_downloads: false
+gems: 
+  - jemoji
