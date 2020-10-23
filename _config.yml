@@ -2,5 +2,6 @@ theme: jekyll-theme-minimal
 github:
   is_project_page: false
 title: Movi Healthcare
+description: The Leader in NEMT Technology Solutions
 logo: logo.png
 show_downloads: false
