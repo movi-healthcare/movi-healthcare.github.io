@@ -1,6 +1,6 @@
 layout: page
 title: "Jobs @ Movi"
-permalink: /jobs
+permalink: /jobs/
 
 # awesome-jobs
 
